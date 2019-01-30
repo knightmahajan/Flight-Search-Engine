@@ -1,5 +1,7 @@
 # Flight Search Engine
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/knightmahajan/Flight-Search-Engine.svg)](https://greenkeeper.io/)
+
 
 
 Reactjs based app to search flights
